@@ -35,3 +35,12 @@ streamlit run app.py
 ```
 
 Open the app in your browser at http://localhost:8501.
+
+## Dependencies
+The app requires the following Python libraries:
+
+- Streamlit: For building the web interface.
+- Pandas: For data manipulation.
+- Numpy: For numerical operations.
+- Statsmodels: For regression analysis.
+- Matplotlib: For data visualization.
