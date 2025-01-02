@@ -18,8 +18,8 @@ To run the web app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/stock-performance-app.git
-   cd stock-performance-app
+   git clone https://github.com/AnshChoudhary/Jensen_Alpha.git
+   cd Jensen_Alpha
    ```
 
 2. Install the required dependencies:
