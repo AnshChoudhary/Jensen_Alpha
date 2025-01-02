@@ -20,3 +20,18 @@ To run the web app locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/stock-performance-app.git
    cd stock-performance-app
+   ```
+
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+Open the app in your browser at http://localhost:8501.
