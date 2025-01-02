@@ -44,3 +44,19 @@ The app requires the following Python libraries:
 - Numpy: For numerical operations.
 - Statsmodels: For regression analysis.
 - Matplotlib: For data visualization.
+
+## Outputs
+The app provides the following key metrics:
+
+- Jensen's Alpha: Measures the stock's performance relative to the market index.
+- Beta: Indicates the stock's sensitivity to market movements.
+- Regression Summary: Detailed statistical analysis of the stock-market relationship.
+
+## Future Enhancements
+- Add support for real-time stock and market index data using APIs.
+- Incorporate advanced visualization tools like Plotly.
+- Enable multi-stock comparisons.
+- Extend functionality to include portfolio performance analysis.
+
+## Contributing
+Contributions are welcome! If you'd like to improve the app, please fork the repository and submit a pull request. Make sure to follow the coding guidelines.
