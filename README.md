@@ -31,7 +31,7 @@ pip install -r requirements.txt
 3. Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run jensen_streamlit.py
 ```
 
 Open the app in your browser at http://localhost:8501.
